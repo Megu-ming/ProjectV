@@ -1,0 +1,21 @@
+# Unreal Engine 기본 제외 폴더
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE 관련
+.vscode/
+.vs/
+*.sln
+*.vcxproj*
+*.VC.db
+*.VC.opendb
+
+# 기타
+*.log
+*.user
+*.suo
+*.tmp
+*.cache
+*.pdb
